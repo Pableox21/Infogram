@@ -1,6 +1,7 @@
 package com.pableox21.infogram;
 
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,4 +22,6 @@ public class LoginActivity extends AppCompatActivity {
             return insets;
         });
     }
+
+
 }

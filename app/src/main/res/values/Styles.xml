@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="editTextWhite" parent="Theme.AppCompat.Light">
+        <item name="android:textSize">@dimen/editText_textSize</item>
+        <item name="android:textColorPrimary">@color/editText_textColorPrimary</item>
+        <item name="android:textColorHint">@color/editText_textColorHint</item>
+        <item name="colorControlNormal">@color/editText_colorColorNormal</item>
+        <item name="colorControlActivated">@color/editText_colorColorActivated</item>
+    </style>
+
+</resources>
