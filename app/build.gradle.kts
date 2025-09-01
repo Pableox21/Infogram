@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.pableox21.infogram"
-    compileSdk = 36
+    compileSdk = 24
 
     defaultConfig {
         applicationId = "com.pableox21.infogram"
