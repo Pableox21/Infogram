@@ -18,6 +18,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:gravity="center"
             android:layout_weight="0.6">
             <ImageView
                 android:layout_margin="60dp"
@@ -31,7 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="0.4"
-            android:orientation="horizontal">
+            android:orientation="vertical">
 
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
