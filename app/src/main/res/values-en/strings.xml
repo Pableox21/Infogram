@@ -6,10 +6,18 @@
     <string name="contraseña">password</string>
     <string name="button_text">LOGIN</string>
     <string name="no_tienes_cuenta">"¿No tienes cuenta?, "</string>
+    <string name="correo" >email</string>
     <string name="crea_una_aqui">" crea una aqui"</string>
     <string name="nombre">nombre</string>
     <string name="usuario">usuario</string>
     <string name="confirme_contrasena">Confirme contraseña</string>
     <string name="button_text_create_account">UNETE</string>
     <string name="title_crear_cuenta">Crear cuenta</string>
+    <string name="pablo_leonardo_olivera_benavidez_cardview">Pablo Leonardo Olivera Benavidez</string>
+    <string name="hace_cardview">Four</string>
+    <string name="dias_cardview">" 4 days"</string>
+    <string name="me_gusta_cardview">Me gusta</string>
+    <string name="buscar_item">Search</string>
+    <string name="home_item">Home</string>
+    <string name="profile_item">Profile</string>
 </resources>
